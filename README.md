@@ -1,3 +1,13 @@
+#Ido Added: 
+
+this repo is the base for tesseract 4.00 ocr : 
+Qute: 
+'
+>>Tesseract 4.00 includes a new neural network subsystem configured as a textline recognizer. It has its origins in OCRopus' >>Python-based LSTM implementation, but has been totally redesigned for Tesseract in C++. The neural network system in Tesseract >>pre-dates Tensor Flow, but is compatible with it, as there is a network description language called Variable Graph >>Specification Language (VGSL), that is also available for Tensor Flow. See https://github.com/tensorflow/models/tree/master/research/street
+'
+from[/tesseract/wiki/NeuralNetsInTesseract4.00](https://github.com/tesseract-ocr/tesseract/wiki/NeuralNetsInTesseract4.00)
+
+
 ocropy
 ======
 
